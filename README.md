@@ -219,14 +219,6 @@ Contributions are welcome! Please feel free to submit a Pull Request. For major 
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📝 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
-## 👥 Authors
-
-- Your Name - [GitHub Profile](https://github.com/yourusername)
-
 ## 🙏 Acknowledgments
 
 - Django community for the excellent framework
@@ -245,3 +237,4 @@ If you have any questions or need help, please open an issue on GitHub or contac
 - Configuring environment variables for sensitive settings
 - Setting up HTTPS
 - Implementing proper error logging and monitoring
+
